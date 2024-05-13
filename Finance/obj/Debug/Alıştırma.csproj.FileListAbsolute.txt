@@ -1,0 +1,13 @@
+C:\Users\husey\source\repos\Alıştırma\obj\Debug\Alıştırma.csproj.AssemblyReference.cache
+C:\Users\husey\source\repos\Alıştırma\obj\Debug\Alıştırma.Properties.Resources.resources
+C:\Users\husey\source\repos\Alıştırma\obj\Debug\Alıştırma.csproj.GenerateResource.cache
+C:\Users\husey\source\repos\Alıştırma\obj\Debug\Alıştırma.csproj.CoreCompileInputs.cache
+C:\Users\husey\source\repos\Alıştırma\bin\Debug\Alıştırma.exe.config
+C:\Users\husey\source\repos\Alıştırma\bin\Debug\Alıştırma.exe
+C:\Users\husey\source\repos\Alıştırma\bin\Debug\Alıştırma.pdb
+C:\Users\husey\source\repos\Alıştırma\obj\Debug\Alıştırma.exe
+C:\Users\husey\source\repos\Alıştırma\obj\Debug\Alıştırma.pdb
+C:\Users\husey\source\repos\Alıştırma\obj\Debug\Alıştırma.Tablolar.resources
+C:\Users\husey\source\repos\Alıştırma\obj\Debug\Alıştırma.Altınİslemleri.resources
+C:\Users\husey\source\repos\Alıştırma\obj\Debug\Alıştırma.Mesaiİslemleri.resources
+C:\Users\husey\source\repos\Alıştırma\obj\Debug\Alıştırma.Finance.resources
